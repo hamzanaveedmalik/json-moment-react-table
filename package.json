@@ -10,8 +10,8 @@
     "react": "15.5.3",
     "react-dom": "15.5.3",
     "react-table": "6.7.0-alpha-0",
+    "webpack": "^2.4.1",
     "webpack-dev-server": "^2.4.4"
-
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
@@ -21,6 +21,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-
+  }
 }
